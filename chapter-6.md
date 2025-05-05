@@ -106,8 +106,3 @@ It uses `../` sequences to access files outside the web root (e.g., `http://site
 **Defense**: Disable directory listing; sanitize user input (block `../`).  
 
 ---
-
-### **Exam Tips**  
-- Memorize **OWASP Top 10** (SQLi, XSS, Broken Auth).  
-- Know **difference between XSS types** (Stored vs. Reflected).  
-- Understand how **session hijacking** works (cookies vs. session IDs).  
