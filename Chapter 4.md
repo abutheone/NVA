@@ -1,7 +1,3 @@
-Here’s a **detailed breakdown** of **Chapter 4: Scanning**, structured for clarity and quick revision:
-
----
-
 ### **Chapter 4: Scanning**  
 #### **1. Introduction to Scanning**  
 - **Purpose**:  
@@ -87,5 +83,3 @@ Here’s a **detailed breakdown** of **Chapter 4: Scanning**, structured for cla
 A SYN scan never completes the TCP handshake (sends SYN, receives SYN/ACK, then sends RST instead of ACK), leaving no full connection log. A Connect scan completes the handshake, leaving entries in application logs.  
 
 ---
-
-Let me know if you’d like deeper dives into specific scans or tools!
